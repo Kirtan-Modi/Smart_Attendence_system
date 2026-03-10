@@ -1,3 +1,10 @@
+// ─────────────────────────────────────────────
+//  THIS JAVA CODE IS USED TO COLLECT THE DATA FROM ESP32 VIS HTTP.
+//  I DON'T HAVE ANY WRITE TO THIS CODE.
+//  I HAVE TAKEN THIS CODE FROM YOUTUBE VIDEO CREATOR "ASLAM HOSSIAN"
+// ─────────────────────────────────────────────
+
+
 var ss = SpreadsheetApp.openById('Enter Sheet ID');
 var sheet = ss.getSheetByName('Sheet1');
 var timezone = "Enter Time Zone of Your Country";
